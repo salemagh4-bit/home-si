@@ -306,7 +306,7 @@ const Prices = () => {
                       href="/new-date"
                       className="bg-green-600 hover:bg-green-700 text-white font-bold px-12 py-4 rounded-xl transition-colors text-lg"
                     >
-                      احسب سعر
+                      متابعة الحجز
                     </a>
                   </div>
                   <div>
